@@ -1,7 +1,5 @@
 
-//Amir babaeiroochi
-//COMP 322 Spring 2022
-//Home work assignment #1
+
 #include <stdio.h>
 #include <stdlib.h>
 
